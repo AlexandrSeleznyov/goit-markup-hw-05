@@ -492,7 +492,7 @@ p {
     
     }
 .team-info h4{
-    padding-top: 30px;
+   
     padding-bottom: 10px;
     text-align: center;
 }
@@ -580,11 +580,11 @@ p {
 .sectionabout .item{
     position: relative;
 }
-.sectionabout .overlay{
+.sectionabout .overlay-about{
     position: absolute;
     left: 0;
     bottom: 0;
-    transform: translatey(225%);
+  
     height: 70px;
     width: 100%;
     background-color: rgb(47,48,58,0.8);
